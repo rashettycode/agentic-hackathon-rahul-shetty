@@ -1,23 +1,20 @@
 # Demo Video
+This demo presents a 3–5 minute end-to-end walkthrough of an event-sourced agentic intake system designed for enterprise and public-sector workflows.
 
-Please record a 3–5 minute walkthrough showing:
+What the Demo Covers
 
-- The problem you solve  
-- End-to-end agent behavior on a representative example  
-- Highlighted “agentic” steps (planning, tool calls, memory use)
+    The problem: Traditional intake systems lose context, overwrite updates, and lack auditability.
 
----
+    The solution: An agentic system that treats each request as an event stream, enabling safe follow-ups, full audit trails, and deterministic behavior.
 
-📺 **Provide a Hosted Public Video Link (YouTube unlisted / Loom / MP4):**  MUST BE ON A HOS
-https://your.video.link.here
+Agentic behavior:
 
-PLEASE DO NOT UPLOAD RAW VIDOE FILES. These submissions will not be reviewed.
+Planning the request type and required fields
 
-### Timestamps
+Using tools (Gemini) selectively for language understanding
 
-- **00:00–00:30** — Introduction & setup  
-- **00:30–01:30** — User input → Planning step  
-- **01:30–02:30** — Tool calls & memory retrieval  
-- **02:30–03:30** — Final output & edge-case handling
+Persisting memory as append-only events
 
-- Vidoes longer than 5 minutes may not be reviewd. 
+Reconstructing case state via event replay
+
+📺 Demo Video (Hosted Public Link)
