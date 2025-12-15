@@ -162,7 +162,8 @@ All critical decisions have **deterministic fallbacks**, ensuring reliability ev
 
 ## 🎥 Demo Video
 
-See `DEMO.md` for a 5 minute walkthrough video 
+5 minute walkthrough video
+https://www.canva.com/design/DAG7gXS9D2I/awRhpu-vKV2HpUKM-O8GTQ/edit
 
 ---
 
